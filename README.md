@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Personal Budget Management Tool
+** Personal Budget Management Tool **
 
 
 
