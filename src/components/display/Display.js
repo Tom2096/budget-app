@@ -142,7 +142,7 @@ function Display(props) {
     </>
     
     const placeholder = <p className="display-placeholder">
-        No data to show here ... 
+        Nothing to show here ... 
     </p>
 
     return (
