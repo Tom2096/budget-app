@@ -9,7 +9,7 @@ This is a web-based application that helps the user to better visualize and inte
 <img src="https://media.giphy.com/media/xiS3fe3yjHLrf9qyBO/giphy.gif" title="Dashboard overview" />
 
 ### Functional Filtering System & Reactive Doughnut Chart (built using Chart.js) 
-<img src="https://media.giphy.com/media/rJbkxzN4IpWztwmWs7/giphy.gif" title="Dashboard overview" />
+<img src="https://media.giphy.com/media/rJbkxzN4IpWztwmWs7/giphy.gif" title="Filtering system" />
 
 
 
