@@ -7,15 +7,27 @@ This is a web-based application that helps the user to better visualize and inte
 
 ### Dashboard with Scrollable Components
 
+<br />
+
 <img src="https://media.giphy.com/media/xiS3fe3yjHLrf9qyBO/giphy.gif" title="Dashboard overview" />
+
+<br />
 
 ### Functional Filtering System & Reactive Doughnut Chart (built using Chart.js) 
 
+<br />
+
 <img src="https://media.giphy.com/media/rJbkxzN4IpWztwmWs7/giphy.gif" title="Filtering system" />
+
+<br />
 
 <img src="https://media.giphy.com/media/d0XPT8Qw3VTsONg5q8/giphy.gif" title="Filtering system" />
 
+<br />
+
 ### Management System to Search and Add Items (built using JS Regex)
+
+<br />
 
 <img src="https://media.giphy.com/media/rJbkxzN4IpWztwmWs7/giphy.gif" title="Filtering system" />
 
