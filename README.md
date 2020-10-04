@@ -25,9 +25,13 @@ This is a web-based application that helps the user to better visualize and inte
 
 ### Management System to Search and Add Items (built using JS Regex)
 
-<img src="https://media.giphy.com/media/rJbkxzN4IpWztwmWs7/giphy.gif" title="Filtering system" />
+*Search System*
 
+<img src="https://media.giphy.com/media/D3kd1GLYn557idTIIB/giphy.gif" title="Search system" />
 
+*Add New Items*
+
+<img src="https://media.giphy.com/media/2x02gRSsxyJPfBbx7Z/giphy.gif" title="Search system" />
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
