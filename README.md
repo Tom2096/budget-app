@@ -15,21 +15,21 @@ This is a web-based application that helps the user to better visualize and inte
 
 ### Functional Filtering System & Reactive Doughnut Chart (built using Chart.js) 
 
-*Filtering System*
+  ----*Filtering System*
 
 <img src="https://media.giphy.com/media/rJbkxzN4IpWztwmWs7/giphy.gif" title="Filtering system" />
 
-*Sorting System*
+  ----*Sorting System*
 
 <img src="https://media.giphy.com/media/oXknU2X5lv8WAjw0fO/giphy.gif" title="Filtering system" />
 
 ### Management System to Search and Add Items (built using JS Regex)
 
-*Search System*
+  ----*Search System*
 
 <img src="https://media.giphy.com/media/D3kd1GLYn557idTIIB/giphy.gif" title="Search system" />
 
-*Add New Items*
+  ----*Add New Items*
 
 <img src="https://media.giphy.com/media/2x02gRSsxyJPfBbx7Z/giphy.gif" title="Search system" />
 
