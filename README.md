@@ -5,11 +5,11 @@ Personal Budget Management Tool
 ## Overview
 This is a web-based application that helps the user to better visualize and interact with their everyday transcations. It comes with a fully functional filtering system, a search system, and a dynamic doughnut chart. It has been filled with some sample data to demonstrate its usability.  
 
-### Dashboard with Scrollable Component
+### Dashboard with Scrollable Components
 <img src="https://media.giphy.com/media/xiS3fe3yjHLrf9qyBO/giphy.gif" title="Dashboard overview" />
 
-
-
+### Functional Filtering System & Reactive Doughnut Chart (built using Chart.js) 
+<img src="https://media.giphy.com/media/rJbkxzN4IpWztwmWs7/giphy.gif" title="Dashboard overview" />
 
 
 
