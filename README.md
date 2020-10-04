@@ -7,6 +7,8 @@ This is a web-based application that helps the user to better visualize and inte
 
 ### Snippets
 Dashboard overview
+
+
 <img src="https://media.giphy.com/media/xiS3fe3yjHLrf9qyBO/giphy.gif" title="Dashboard overview" />
 
 
