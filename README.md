@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Personal Budget Management Tool
 ===============================
 ## Overview
-This is a web-based application that helps the user to better visualize and interact with their everyday transcations. It comes with a fully functional filtering system, a search system, and a dynamic doughnut chart. It has been filled with some sample data to demonstrate its usability.  
+This is a web-based application that helps the user to better visualize and interact with their everyday transactions. It comes with a fully functional filtering system, a search system, and a dynamic doughnut chart. It has been filled with some sample data to demonstrate its usability.  
 
 ### Dashboard with Scrollable Components
 
