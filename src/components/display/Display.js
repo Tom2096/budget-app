@@ -136,7 +136,7 @@ function Display(props) {
             labels={labels}
             data={data}
             colors={colors}
-            total={total}
+            total={props.filter ? total : data[0] + data[1]}
             top={currentHeight}
         />
     </>

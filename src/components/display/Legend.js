@@ -1,6 +1,7 @@
 import React from "react"
 
 function LegendItem(props) {
+
     return (
         <div className="legend-item">
 
@@ -46,8 +47,6 @@ function Legend(props) {
         />
         )
     }
-
-    console.log(showLegends)
 
     return (
         <div className="my-legend"
