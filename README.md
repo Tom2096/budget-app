@@ -21,7 +21,7 @@ This is a web-based application that helps the user to better visualize and inte
 
 *Sorting System*
 
-<img src="https://media.giphy.com/media/d0XPT8Qw3VTsONg5q8/giphy.gif" title="Filtering system" />
+<img src="https://media.giphy.com/media/oXknU2X5lv8WAjw0fO/giphy.gif" title="Filtering system" />
 
 ### Management System to Search and Add Items (built using JS Regex)
 
