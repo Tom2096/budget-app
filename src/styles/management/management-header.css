@@ -1,0 +1,104 @@
+
+.management-header {
+    position: relative;
+    padding: 1rem;
+    width: 100%;
+    height: 20%;
+}
+
+/* search-bar ------------------------------------------------------------------------*/
+
+.search-bar {
+    position: absolute;
+    padding-left: 5rem;
+    width: 75%;
+    height: 50%;
+    left: 0;
+    bottom: 0;
+    font-size: 1.5rem;
+}
+
+.search-label {
+    position: absolute;
+    left: 7rem;
+    pointer-events: none;
+    font-size: 1.7rem;
+    transition: 0.3s ease-in-out;
+}
+
+.search-input {
+    background: transparent;
+    border: none;
+    border-bottom: 3px solid black;
+    outline: none;
+    width: 7rem;
+    transition: 0.3s ease-in-out;
+}
+
+.search-input:focus, .search-input.selected {
+    width: 70%;
+}
+
+.search-input:focus + .search-label, .search-input.selected + .search-label  {
+    font-size: 1.2rem;
+    transform: translateY(-2.1rem);    
+}
+
+/* add-new ------------------------------------------------------------------------*/
+
+.add-new {
+    position: absolute;
+    width: 25%;
+    height: 50%;
+    right: 0;
+    bottom: 0;
+    padding-right: 5rem;
+}
+
+.add-new-button {
+    width: 100%;
+    height: 2rem;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    font-size: 1.7rem;
+    color: grey;
+    transition: 0.3s;
+}
+
+.add-new-button:hover {
+    color: black;
+}
+
+/* inputs --------------------------------------------------------------------------*/
+
+.inputs {
+    position: relative;
+    padding-top: 1rem;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.input {
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid black;
+    outline: none;
+}
+
+.input.amount {
+    text-align: right;
+}
+
+.input-date {
+    padding-top: 2rem;
+    display: flex;
+    justify-content: center;
+    font-size: 1.5rem;
+}
+
+.alerted {
+    color: red;
+}
+
+

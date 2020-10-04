@@ -1,0 +1,76 @@
+.display {
+    position: absolute;
+    left: 65vw;
+    width: 35vw;
+    height: 100vh;
+    display: flex;
+    padding-top: 10vh;
+    justify-content: center;
+}
+
+.display-placeholder {
+    font-size: 1.5rem;
+}
+
+.container-text {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    pointer-events: none;
+}
+
+.text-middle {
+    display: flex;
+    height: 10%;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 2rem;
+}
+
+/* legend ------------------------------------------------------------------------*/
+
+.my-legend {
+    position: absolute;
+    padding: 2rem;
+    top: 10vh;
+    left: 0;
+    width: 100%;
+    height: 90vh;
+    pointer-events: none;
+}
+
+.legend-item {
+    margin-top: 2rem;
+    display: flex;
+    width: 100%;
+}
+
+.item {
+    font-size: 1.3rem;
+}
+
+.label-color {
+    width: 2rem;
+    outline: 2px solid white;
+    margin-right: 1rem;
+}
+
+.item.label {
+    display: flex;
+    width: 60%;
+}
+
+.item.amount {
+    width: 30%;
+    text-align: right;
+    padding-right: 0.5rem;
+}
+
+.item.percent {
+    width: 10%;
+    padding-left: 0.5rem;
+    border-left: 2px solid black;
+}

@@ -1,0 +1,59 @@
+.overview-body {
+    height: 75%;
+    padding: 1rem;
+    padding-top: 2rem;
+    padding-right: 0;
+}
+
+.overview-placeholder {
+    padding: 5rem;
+    font-size: 2rem;
+}
+
+/*entries-block ------------------------------------------------------------------- */
+
+.entries-block {
+    margin: 1rem;
+    margin-right: 2rem;
+    margin-bottom: 5rem;
+    padding: 1rem;
+    border-radius: 3px;
+    box-shadow: 0 0 10px 2px rgba(100, 100, 100, 0.4);
+    background-color: white;
+}
+
+.labels {
+    display: flex;
+    margin-bottom: 1rem;
+}
+
+/*entry -------------------------------------------------------------------------- */
+
+.entry {
+    height: 3rem;
+    margin: 0;
+    display: flex;
+    font-size: 20px;
+}
+
+.box {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.box.action {
+    width: 40%;
+    text-align: left;
+}
+
+.box.amount, .box.date {
+    width: 30%;
+    text-align: right;
+}
+
+
+
+  

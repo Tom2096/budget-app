@@ -1,0 +1,21 @@
+.app {
+    display: flex;
+    background-color: #f3f0f1;
+    overflow: hidden;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    padding: 0;
+}
+
+#__react-alert__ {
+    z-index: 100;
+}
+
+.ui.page.modals.dimmer.transition.visible.active {
+    z-index: 50;
+}

@@ -1,0 +1,24 @@
+.slide-appear, .slide-enter {
+    left: 0;
+    opacity: 0;
+}
+
+.slide-appear-active, .slide-enter-active {
+    transform: translate(15vw);
+    opacity: 1;
+    transition: 500ms;
+}
+
+.slide-appear-done, .slide-enter-done {
+    left: 15vw;
+}
+
+.slide-exit {
+    left: 15vw;
+}
+
+.slide-exit-active {
+    transform: translate(-15vw);
+    opacity: 0;
+    transition: 500ms;
+}
