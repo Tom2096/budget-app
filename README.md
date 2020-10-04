@@ -15,11 +15,11 @@ This is a web-based application that helps the user to better visualize and inte
 
 ### Functional Filtering System & Reactive Doughnut Chart (built using Chart.js) 
 
-*Filtering System
+*Filtering System*
 
 <img src="https://media.giphy.com/media/rJbkxzN4IpWztwmWs7/giphy.gif" title="Filtering system" />
 
-*Sorting System
+*Sorting System*
 
 <img src="https://media.giphy.com/media/d0XPT8Qw3VTsONg5q8/giphy.gif" title="Filtering system" />
 
